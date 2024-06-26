@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Turja Chakraborty
-#### i am student of Chandpur Science And Technology University 
+#### I am a student of Chandpur Science And Technology University 
 
 Skills: C/C++/JAVA/PYTHON/APP DEVELOPMENT 
 
